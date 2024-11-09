@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asapteoo
+- 👋 Hi, I’m Matteo Nnalugha
 - 👀 I’m interested in learning new software ideas
 - 🌱 I’m currently learning new programming languages
 - 💞️ I’m looking to collaborate with any likeminded peer
